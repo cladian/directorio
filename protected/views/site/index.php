@@ -37,6 +37,6 @@ Mail::mailsend("edison_panchi@hotmail.com",$from,"Directorio Online","<h1>Bienve
 <h4>Qué es el Directorio On Line TIC Pymes?</h4>
 <p>El Directorio en Línea es una herramienta que sirve como guía que lista los contactos (nombre, teléfonos, mails, etc.) de las Pymes miembros del Consorcio Nacional de Lácteos en las provincias de Bolívar y Chimborazo, así como las de sus propios proveedores y clientes con el fin de agilizar la búsqueda de información específica y mostrar los productos ofertados por los consorcios, por las Pymes y por terceros.</p>
 
-<img src="/directorio/app/img/directorio.jpg" alt=""/>
+<img src="/directorio/img/directorio.jpg" alt=""/>
 
 
