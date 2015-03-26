@@ -120,17 +120,13 @@ class PymesController extends Controller
         if(isset($_GET['Clientes']))
             $modelClientes->attributes=$_GET['Clientes'];
 
-        $this->render('view',[
-
-            'model'=>$model,
+        $this->render('view',array('model'=>$model,
             'modelCoberturas'=>$modelCoberturas,
             'modelContacto'=>$modelContacto,
             'modelProductos'=>$modelProductos,
             'modelDiasentrega'=>$modelDiasentrega,
             'modelProveedores'=>$modelProveedores,
-            'modelClientes'=>$modelClientes,
-
-        ]);
+            'modelClientes'=>$modelClientes));
 
     }
 
