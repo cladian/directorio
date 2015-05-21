@@ -7,7 +7,7 @@
     </div>
     <div class="span-9 ">
         <div id="sidebar">
-            <img  src="/directorio/app/img/amarillo.jpg" />
+            <img  src="img/amarillo.jpg" />
            <!--<h4>Estadísticas Generales Consorcio</h4>
             --><?php
 /*            $stdReg=Stdregistos::model()->findAll();
